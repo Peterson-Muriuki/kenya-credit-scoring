@@ -1,0 +1,30 @@
+# Core Data Science Libraries
+pandas
+numpy
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Model Interpretation
+shap
+
+# Web Framework
+flask
+flask-cors
+
+# Streamlit
+streamlit
+
+# Utilities
+joblib
+python-dotenv
+requests
+tqdm
